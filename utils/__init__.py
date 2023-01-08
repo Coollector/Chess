@@ -1,1 +1,0 @@
-from utils.Board import ChessGUI as Board
